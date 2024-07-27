@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
- {
+int main() {
     int i;
     int num[7] = {3, 1, 4, 1, 5, 9, 2};
     int max = num[0];
